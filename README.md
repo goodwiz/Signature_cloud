@@ -23,6 +23,6 @@ http://www.cookqq.com/label
 
 #4.成品
 
-根据个人朋友圈的签名，生成的签名云如example_1.png和example_2.png所示
+根据个人朋友圈的签名，生成的签名云如example_1.pdf和example_2.pdf所示
 
 考虑到签名过多，可以分成几张图片存储
